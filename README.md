@@ -5,7 +5,7 @@ A Mobile App System for Visual Classification of Plant Species and Diseases
 In development
 
 # Plans
-I plan to use Flutter framework and implement a classification model with TensorFlow Lite
+I plan to use Flutter framework and implement an existing classification model with TensorFlow Lite
 
 # References
 Papers:
